@@ -23,7 +23,7 @@ It depends on the language, but you have `./src/app.js`, `./src/style.css` and `
 
 ### I don't see my changes...
 
-Everytime you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
+Every time you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
 Remember also to refresh cleaning the cache (`command+shift+r` on Mac, `control+shift+r` on PC & Linux)
 
 ### How do I include more images in my project?
